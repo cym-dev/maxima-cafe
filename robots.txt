@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://maximacafe.shop/sitemap.xml
+
+# Allow crawling of all pages
+Crawl-delay: 1
+
+# Important pages for cafe
+Allow: /index.html
+Allow: /menu
+Allow: /about
+Allow: /gallery
+Allow: /contact
